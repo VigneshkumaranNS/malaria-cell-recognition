@@ -174,7 +174,7 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img src = "1(1).png">
+<img src = "1 (1).png">
 
 ### Classification Report
 
